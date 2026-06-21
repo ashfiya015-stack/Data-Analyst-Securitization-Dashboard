@@ -67,18 +67,18 @@ The project uses the following datasets:
 
 ## 📁 Project Structure
 
-Data_Analyst_Securitisation/
+Data_Analyst_Securitisation
 │
-├── PowerBI/
+├── PowerBI
 │ └── Securitisation_Dashboard.pbix
 │
-├── PPT/
+├── PPT
 │ └── Securitisation_Project_Presentation.pptx
 │
-├── Reports/
+├── Reports
 │ └── Final_Report.pdf
 │
-├── Screenshots/
+├── Screenshots
 │ ├── dashboard1.png
 │ └── dashboard2.png
 │
