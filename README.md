@@ -62,18 +62,39 @@ The project uses the following datasets:
 - Delinquency patterns can be monitored through DPD analysis.
 - Interactive filtering enables detailed portfolio exploration.
 
----
-
-## 📸 Dashboard Preview
-
-Add screenshots here:
-
-### Dashboard Overview
-![Dashboard](screenshots/dashboard1.png)
-
-### Additional Analysis
-![Dashboard](screenshots/dashboard2.png)
 
 ---
 
 ## 📁 Project Structure
+
+Data_Analyst_Securitisation/
+│
+├── PowerBI/
+│ └── Securitisation_Dashboard.pbix
+│
+├── PPT/
+│ └── Securitisation_Project_Presentation.pptx
+│
+├── Reports/
+│ └── Final_Report.pdf
+│
+├── Screenshots/
+│ ├── dashboard1.png
+│ └── dashboard2.png
+│
+└── README.md
+
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates the use of Power BI for financial data analysis and dashboard development. It highlights the ability to clean, transform, visualize, and interpret securitisation data through interactive business intelligence reports.
+
+---
+
+## 👤 Author
+
+**Ashfiya**
+
+Data Analytics Enthusiast | Power BI Learner
